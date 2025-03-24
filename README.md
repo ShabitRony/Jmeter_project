@@ -41,12 +41,14 @@
 ## Task 1
 - Open Apache JMeter
 - Open Booking.jmx file
-- Run the test according to the requirements
+- Run the test for the required time period
 - View result in the HTML report
 ## Task 2
 - Open dmoney.jmx file
 - Placed the CSV file in the same directory
 - Run the test
+- Validate response assertions
+- View result in the HTML report
 
 
 
