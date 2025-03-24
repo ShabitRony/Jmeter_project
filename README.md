@@ -28,6 +28,9 @@
 [Performance-test.xlsx](https://github.com/user-attachments/files/19411688/Performance-test.xlsx)
 
 # Task 2: Functional Testing for dmoney API
+### Summary Report
+![dmoneytest](https://github.com/user-attachments/assets/fc1dea4a-8525-4e0c-98c6-42d9baa5f20a)
+
 ### HTML Report
 ![jmeter_api_manipulation](https://github.com/user-attachments/assets/c936aba7-461f-46a8-8ff9-e804945f2ca6)
 
