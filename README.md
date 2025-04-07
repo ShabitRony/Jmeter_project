@@ -10,7 +10,7 @@
 - 5 minute load test
 - 10 minute load test
 - 20 minute load test
-## Load Test Report
+## Load Test Step Report
 ![testreport1](https://github.com/user-attachments/assets/8652e7a4-1c36-48f3-9a8b-e2189ecdadb0)
 
 ## For 5 minute Summary Report 
